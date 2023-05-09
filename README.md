@@ -1,1 +1,1 @@
-This is a very simple calculator
+Small projects in c++, will continue to add more.
