@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+int in;
+long long l;
+char c;
+float fl; 
+double d;
+
+cin >> in >> l >> c >> fl >> d;
+
+cout << in << "\n" << l << "\n" << c << "\n" << fl << "\n" << d;
+
+
+return 0;
+}
